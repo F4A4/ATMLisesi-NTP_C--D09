@@ -1,0 +1,18 @@
+C:\Users\MO-04\Desktop\EglenceliBiSey\EglenceliBiSey\bin\Debug\EglenceliBiSey.exe
+C:\Users\MO-04\Desktop\EglenceliBiSey\EglenceliBiSey\bin\Debug\EglenceliBiSey.pdb
+C:\Users\MO-04\Desktop\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\EglenceliBiSey.Form1.resources
+C:\Users\MO-04\Desktop\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\EglenceliBiSey.Properties.Resources.resources
+C:\Users\MO-04\Desktop\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\EglenceliBiSey.exe
+C:\Users\MO-04\Desktop\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\EglenceliBiSey.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\EglenceliBiSey.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\EglenceliBiSey.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\EglenceliBiSey\EglenceliBiSey\bin\Debug\EglenceliBiSey.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\EglenceliBiSey\EglenceliBiSey\bin\Debug\EglenceliBiSey.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\EglenceliBiSey.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\EglenceliBiSey.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\EglenceliBiSey\EglenceliBiSey\obj\x86\Debug\GenerateResource.write.1.tlog

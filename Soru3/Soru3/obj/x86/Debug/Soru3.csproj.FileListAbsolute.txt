@@ -1,0 +1,29 @@
+C:\Users\MO-04\Desktop\Soru3\Soru3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\Soru3\Soru3\obj\x86\Debug\Soru3.Form1.resources
+C:\Users\MO-04\Desktop\Soru3\Soru3\obj\x86\Debug\Soru3.Properties.Resources.resources
+C:\Users\MO-04\Desktop\Soru3\Soru3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\Soru3\Soru3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\Soru3\Soru3\bin\Debug\Soru3.exe
+C:\Users\MO-04\Desktop\Soru3\Soru3\bin\Debug\Soru3.pdb
+C:\Users\MO-04\Desktop\Soru3\Soru3\obj\x86\Debug\Soru3.exe
+C:\Users\MO-04\Desktop\Soru3\Soru3\obj\x86\Debug\Soru3.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\bin\Debug\Soru3.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\bin\Debug\Soru3.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.Form1.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\bin\Debug\Soru3.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\bin\Debug\Soru3.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\9.GÜN\Soru3\Soru3\obj\x86\Debug\Soru3.pdb
